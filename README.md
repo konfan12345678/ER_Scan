@@ -1,2 +1,2 @@
 # ER_Scan
-Encrypted dns scanning tool
+An efficient encrypted dns scanning tool
