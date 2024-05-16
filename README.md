@@ -25,4 +25,4 @@ ER_Scan [command]
 - `-v, --verify`: Enable strict certificate validation when establishing TLS connections
 
 For more information about a specific command, use:
-ER_Scan [command] --help
+- `ER_Scan [command] --help`
